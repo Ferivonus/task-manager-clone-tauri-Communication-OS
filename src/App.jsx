@@ -221,22 +221,16 @@ function App() {
 
       <h1>System Monitoring Dashboard</h1>
 
-      {/* System Info Section */}
       <System_Info_Section />
 
-      {/* Disks Info Section */}
       <Disks_Info_Section />
 
-      {/* Network Info Section */}
       <Network_Info_Section />
 
-      {/* Components Info Section */}
        <Components_Info_Section />
 
-      {/* CPU Usage Section */}
       <CPU_Usage_Section />
 
-      {/* Process Info Section */}
       <Process_Info_Section />
     </div>
   );
